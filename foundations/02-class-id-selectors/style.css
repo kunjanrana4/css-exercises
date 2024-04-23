@@ -1,0 +1,19 @@
+/* style.css */
+p{
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#line2{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px
+}
+
+.same-font-size{
+    font-size: 24px
+}
+
+#line4{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold
+}

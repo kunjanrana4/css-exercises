@@ -16,10 +16,10 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 > Part of your task is to add a font to _some_ of these items. Your browser's font's might be different than the one displayed in the desired outcome image. As long as you confirm that the fonts _are_ being applied to the right lines any differences are okay for this exercise.
 
 ## Desired Outcome
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-outcome.png) - Acheived desired outcome
 
 
 ### Self Check
-- Do the odd numbered `p` elements share a class?
-- Do the even numbered `div` elements have unique IDs?
-- Does the Number 3 element have multiple classes?
+- Do the odd numbered `p` elements share a class? - Yes
+- Do the even numbered `div` elements have unique IDs? - Yes
+- Does the Number 3 element have multiple classes? - N/A, used <p> tag as type selector to avoid creating additional class
