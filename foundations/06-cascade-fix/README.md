@@ -10,9 +10,9 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-outcome.png) - Desired Outcome Achieved
 
 ### Self Check
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? - Yes
+- If you added selectors to the CSS, do they target a valid HTML element? - Yes
